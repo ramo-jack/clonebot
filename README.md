@@ -31,8 +31,8 @@ Read the <a href="https://space4renjith.blogspot.com/2022/05/clonebot-technical-
 
      
      <a href="https://cloud.okteto.com/deploy?repository=https://github.com/ramo-jack/clonebot&branch=main">
-  <img src="https://okteto.com/develop-okteto.svg" alt="Develop on Okteto">
-</a>
+        <img src="https://okteto.com/develop-okteto.svg" alt="Develop on Okteto">
+     </a>
 
 <details>
     <summary><b>Deploy Using Docker</b></summary>
